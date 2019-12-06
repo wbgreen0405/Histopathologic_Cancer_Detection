@@ -1,6 +1,6 @@
 # Histopathologic_Cancer_Detection
 
-![alt text](http://www.innovationandtech.ae/wp-content/uploads/2018/01/Cancer-Prognosis-Prediction-using-AI-810x324.jpg)
+![alt text](https://miro.medium.com/max/2111/1*gNcFEL1cpGpDC4vo1zUAWA.png)
 
 ***Breast cancer ranks second in mortality among women after lung cancer***. According to clinical statistics, 1 out of every 8 women is diagnosed with breast cancer during their lifetime. Nevertheless, periodic clinical examinations and self-tests help in its early detection, and thus significantly increase the chances of survival. [Invasive](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B0%D0%B7%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%B4%D1%83%D1%80%D0%B0) detection [methods](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B0%D0%B7%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%B4%D1%83%D1%80%D0%B0) cause tumor rupture, accelerating the spread of cancer to surrounding areas. Consequently, there is a need for a more reliable, fast, accurate and effective non-invasive cancer detection system (Selvathi, D & Aarthy Poornila, A. (2018). Deep learning methods for detecting breast cancer using medical image analysis).
 Early detection may give patients more treatment options. To detect signs of cancer, breast tissue from a biopsy is stained to improve nuclei and cytoplasm for microscopic examination. Pathologists then evaluate the extent of any abnormal structural change to determine if there are tumors.
