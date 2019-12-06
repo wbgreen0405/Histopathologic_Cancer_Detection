@@ -1,4 +1,5 @@
-# Histopathologic_Cancer_Detection
+# Histopathologic Cancer Detection
+### Identify metastatic tissue in histopathologic scans of lymph node sections
 
 ![alt text](https://miro.medium.com/max/2111/1*gNcFEL1cpGpDC4vo1zUAWA.png)
 
